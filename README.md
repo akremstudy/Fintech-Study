@@ -1,8 +1,8 @@
 # Robinhood Case Study
 
-![Robinhood](https://play.google.com/store/apps/details?id=com.robinhood.android&hl=en_US)
+![Robinhood](robinhood.png)
 
-## Robindhood 
+## Robinhood 
 A new Fintech business
 
 ---
