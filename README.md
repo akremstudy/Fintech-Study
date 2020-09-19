@@ -37,6 +37,7 @@ The company uses technology to their advantage by having efficient internet proc
 *Strengths*
 1. Millennial friendly app
 2. Commission Free
+
 *Weakness*
 
 
