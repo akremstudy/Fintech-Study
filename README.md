@@ -4,13 +4,11 @@
 
 ### Robinhood 
 *Fintech business*
-
 ###### Camillo D'Orazio and Akrem Mohamed
----
 
 
-                                **REPORT**
 
+**REPORT**
 
 ## Background
 RobinHood is an internet stock trading platform that offers unlimited *commission free* trading for 
