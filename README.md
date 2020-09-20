@@ -3,19 +3,16 @@
 ![Robinhood](robinhood.png)
 
 ## Robinhood 
-A new Fintech business
+Fintech business
+
+---
+*Camillo D'Orazio and Akrem Mohamed*
 
 ---
 
 
-By: Camillo D'Orazio and Akrem Mohamed
+**Case study Report**
 
----
-
-## FinTech Case study Report
-
-
-## What is the background of your company? What do they do? Who are their competitors?
 
 # Background
 RobinHood is an internet stock trading platform that offers unlimited *commission free* trading for 
@@ -26,12 +23,10 @@ RobinHood is an internet stock trading platform that offers unlimited *commissio
 Their revenue comes from sources such as Lending, both cash and securities, and margin, for customer borrowing funds to invest. 
 Their main competitors are low or no cost-based internet brokerage firms such as Charles Schwab, E-Trade, Fidelity and TD Ameritrade.
 
-## How does this company use technology to their advantage? Why are they considered a FinTech company?
 
 # Why it matters
 The company uses technology to their advantage by having efficient internet processes. It also employs a learn it yourself and do it yourself mentality by provide customers with do it yourself tools and videos. They are considered a FinTech company because most of their business is run using technology vs human capital. 
 
-## Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
 
 # SWOT Analysis
 *Strengths*
@@ -40,6 +35,4 @@ The company uses technology to their advantage by having efficient internet proc
 
 *Weakness*
 
-
-## What is the prognosis for this company? Where do they expect to be in the future?
 
