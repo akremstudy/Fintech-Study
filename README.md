@@ -3,15 +3,13 @@
 ![Robinhood](robinhood.png)
 
 ## Robinhood 
-Fintech business
+*Fintech business*
 
----
-*Camillo D'Orazio and Akrem Mohamed*
-
+######Camillo D'Orazio and Akrem Mohamed
 ---
 
 
-**Case study Report**
+->REPORT<-
 
 
 # Background
